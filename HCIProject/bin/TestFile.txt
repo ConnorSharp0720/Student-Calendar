@@ -1,0 +1,2 @@
+This is going to be an example file for how the Event data should be stored.
+NAME,LOCATION,CATEGORY,PRIORITY,DATE,START,END,MON,TUES,WED,THUR,FRI,SAT,SUN

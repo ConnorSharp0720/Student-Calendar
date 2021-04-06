@@ -1,0 +1,54 @@
+
+/* Root Background Attributes */
+.root
+{
+	-fx-background-color: #e7e7e6;
+}
+
+/* Text Attributes */
+
+#title-text {
+	-fx-font: normal 17pt "Helvetica";
+}
+
+/*Sizing Attributes */
+.check-box > .box {
+    -fx-padding: 1.6px;
+}
+
+.check-box > .box > .mark {
+    -fx-padding: 5.7px;
+}
+
+#add-button {
+	-fx-background-color: transparent;
+	-fx-padding: 1 2 2 1;
+}
+
+#add-button:hover {
+	-fx-background-color: #afafaf;
+}
+
+#due-dates {
+	-fx-padding: 0 0 0 0;
+	-fx-background-color: transparent;
+	-fx-font: normal 11pt "Arial";
+}
+
+#due-dates:hover {
+	-fx-background-color: #afafaf;
+}
+
+#due-date-title {
+	-fx-padding: 0 0 0 0;
+	-fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-padding: 0 0 0 0;
+    -fx-font: bold 11pt "Arial";
+    -fx-text-fill: black;
+}
+
+#due-date-title:hover {
+	-fx-background-color: #afafaf;
+	-fx-underline: false;
+}
